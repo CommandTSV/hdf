@@ -1,5 +1,5 @@
 {
-  "name": "Digital Breagthrough front",
+  "name": "Digital Breagthrough  TSV front",
   "version": "0.1.0",
   "scripts": {
     "dev": "NODE_ENV=development webpack-dev-server",
